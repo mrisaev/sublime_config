@@ -1,0 +1,1 @@
+{"version": "0.6.0", "description": "lxml", "platforms": ["osx-x64", "linux-x64", "windows-x64", "windows-x32"], "url": "https://github.com/eerohele/sublime-lxml/issues", "sublime_text": ">=3000"}

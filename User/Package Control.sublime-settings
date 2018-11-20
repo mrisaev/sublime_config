@@ -5,11 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"CMake",
+		"Compare Side-By-Side",
 		"Indent XML",
 		"JSON Reindent",
 		"JsonTree",
 		"Log Highlight",
-		"Package Control"
+		"Package Control",
+		"Pylinter",
+		"SublimeCodeIntel",
+		"xpath"
 	]
 }
